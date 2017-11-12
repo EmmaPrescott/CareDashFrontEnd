@@ -1,0 +1,156 @@
+html*{
+    font-family: 'Open Sans', sans-serif !important;
+}
+.row{
+    margin:0;
+}
+
+#formDiv{
+    margin-top:20px;
+    padding: 0px 50px;
+}
+a{
+    color:black;
+}
+#logo {
+    float: left;
+    height:100%;
+    width:20%;
+    margin-right:20px;
+  }
+  
+
+#bigPic{
+    box-shadow: 0px 0px 2px 3px #F8F8F7;    
+    margin-right:20px;
+}
+
+#docPic{
+    width:100%;
+}
+
+
+#inputCol{
+    padding: 20px 20px;
+    display:flex;
+    justify-content: center;
+    border-radius:5px;
+    background-color: #F8F8F7;
+    height:fit-content;
+}
+
+.form-group{
+    display:flex;
+    justify-content: center;
+}
+
+.form-control{
+    width:75%;
+}
+
+#buttonDiv{
+    display:flex;
+    justify-content: center;
+}
+
+.btn-primary{
+    background-color:#7DB937;
+    border-color:#7DB937;
+}
+
+.btn-primary:hover{
+    background-color:#4E7422;
+    border-color:#4E7422;
+    
+}
+#headlineDiv{
+    padding:10px 80px;
+    background-color:#F8F8F7
+}
+
+.headlineHeader{
+    display:flex;
+    justify-content: center;
+    margin-top:20px;
+    margin-bottom:20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size:1.5rem;
+}
+
+#headLineCenter{
+    display:flex;
+    justify-content: center;
+    margin-bottom:30px;
+}
+.card-body{
+    font-family: 'Open Sans', sans-serif;
+}
+.card-title{ 
+    font-weight: 600;
+    font-size:1.2rem;
+    text-align:center;
+}
+
+.card-text{
+    font-weight: 400;
+    font-size:1rem;
+    display:flex;
+    justify-content: center;
+}
+#cardCol{
+    width:100%;
+}
+
+.card{
+    width:30%;
+}
+
+#socialImg{
+    max-width:40px;
+    width:auto;
+}
+
+
+footer{
+    background-color:#E8E6E5;
+}
+#footer{
+    margin-top:50px;
+    padding:30px 20px;
+}
+.container-fluid{
+    margin-top:40px;
+}
+
+.footerLabel{
+    color:grey;
+    font-size:1.1rem;
+}
+
+.footer-list{
+    font-size:small;
+}
+
+.footer-list a:hover{
+    text-decoration: none;
+    color:#7DB937;
+}
+
+.nav-item a:hover{
+    color:#7DB937;
+    text-decoration: none;
+
+}
+
+#needs-validation{
+    width:100%;
+    text-align: center;
+    
+}
+
+#loginLabel{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:600;
+    margin-bottom:20px;
+}
