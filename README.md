@@ -1,4 +1,4 @@
-# CareDashFrontEnd
+# FrontEnd
 
 I used HTML, CSS, and the Bootstrap CSS framework to complete this assignment. 
 
